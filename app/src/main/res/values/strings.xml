@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dropbox Android Example</string>
+    <!-- Change this to your app key -->
+    <string name="app_key">nd0u2pn91dpsckl</string>
+    <string name="app_secret">27j4gioakyoohj8</string>
+    <string name="title_activity_files">Files</string>
+    <string name="title_activity_openwith">Open With</string>
+
+</resources>
